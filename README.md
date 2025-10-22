@@ -5,6 +5,7 @@ Sistem Pendukung Keputusan (SPK) ini dirancang untuk membantu perusahaan dalam m
 - Pembobotan fleksibel: Setiap faktor dapat diberi bobot sesuai prioritas perusahaan.
 - Perhitungan otomatis: Sistem menghitung skor akhir berdasarkan nilai dan bobot masing-masing faktor.
 - Peringkat karyawan: Menampilkan urutan karyawan berdasarkan total skor untuk memudahkan pengambilan keputusan.
+  
 🎯 Manfaat:
 - Mengurangi subjektivitas dalam penilaian karyawan.
 - Mempercepat proses evaluasi dan pelaporan.

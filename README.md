@@ -1,51 +1,12 @@
-# php-native-dashboard
+🧠 Deskripsi Sistem
+Sistem Pendukung Keputusan (SPK) ini dirancang untuk membantu perusahaan dalam melakukan penilaian kinerja karyawan secara objektif dan efisien menggunakan metode Multi-Factor Evaluation Process (MFEP). Metode MFEP memungkinkan pengambilan keputusan berdasarkan berbagai faktor yang dinilai secara kuantitatif, sehingga hasil evaluasi lebih transparan dan terukur.
+✨ Fitur Utama:
+- Penilaian multi-kriteria: Menilai karyawan berdasarkan berbagai aspek seperti produktivitas, disiplin, kerja sama tim, dan inisiatif.
+- Pembobotan fleksibel: Setiap faktor dapat diberi bobot sesuai prioritas perusahaan.
+- Perhitungan otomatis: Sistem menghitung skor akhir berdasarkan nilai dan bobot masing-masing faktor.
+- Peringkat karyawan: Menampilkan urutan karyawan berdasarkan total skor untuk memudahkan pengambilan keputusan.
+🎯 Manfaat:
+- Mengurangi subjektivitas dalam penilaian karyawan.
+- Mempercepat proses evaluasi dan pelaporan.
+- Meningkatkan akurasi dalam memilih karyawan terbaik untuk promosi, penghargaan, atau pelatihan.
 
-## Features
-*  Login Admin
-*  Tambah/Edit/Hapus Dosen
-*  Tambah/Edit/Hapus Mahasiswa
-*  Tambah/Edit/Hapus Mata Kuliah
-*  Tambah/Edit/Hapus Nilai Mata Kuliah
-
-## 📸 Demo Web
-<pre>
-<img src="data/demo/login-page.png" width="1200">
-<img src="data/demo/dashboard.png" width="1200">
-<img src="data/demo/add-data.png" width="1200"> 
-<img src="data/demo/view-data.png" width="1200">
-</pre>
-
-## 📁 Direktori
-    # Root Project
-    .
-    ├── assets                 # Berisi css, js, bootstrap, foto.
-    |
-    ├── dashboard              # Halaman dashboard.
-    |
-    ├── data                   # File berisi db dan screenshoot demo.
-    |
-    ├── dosen                  # Halaman managemen dosen.
-    |
-    ├── helper                 # File untuk koneksi ke db dan autentikasi login user.
-    |
-    ├── layout                 # Template side, botton, top bar.
-    |
-    ├── mahasiswa              # Halaman managemen mahasiswa.
-    |
-    ├── matakuliah             # Halaman managemen mata kuliah.
-    |
-    └── nilai                  # Halaman managemen nilai.
-
-## 📁 Git commit format
-* Add
-Use when add new feature
-* Update
-Use when update feature
-* Fix
-Use when fix some bug/error
-* Remove
-Use when remove some feature
-#### Example :
-    Add: Home page
-    Fix: Layout not responsive
-    Remove: Shadow on item list 
